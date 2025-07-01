@@ -6,3 +6,5 @@
 - 💬 Ask me about Python, SQL, or business operations.
 - 📫 How to reach me: wenhaoxu996@gmail.com
 - 😄 Fun fact: I’ve worked with consulting and trading companies on real-world data problems!
+
+![](https://github-readme-stats.vercel.qpp/api?username=HowardXXXu&show_icons=true&theme=transparent)
